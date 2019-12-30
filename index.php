@@ -1,6 +1,6 @@
 <HTML>
 <head>
-  <tittle><b> Hello there </b></tittle>
+  <tittle><b> Hello there, szerkesztés alatt </b></tittle>
   </head>
 <body>
  body bgcolor="#8FBC8F"
