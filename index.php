@@ -6,24 +6,17 @@
 <style type="text/css">
 .style1 {
 	text-align: center;
-	color: rgb(128, 0, 128);
 	font-size: xx-large;
 }
 .style2 {
 	font-family: "Malgun Gothic";
 	font-weight: normal;
-	color: rgb(128, 0, 0);
 }
 .style3 {
 	font-family: Arial, Helvetica, sans-serif;
 }
 .style4 {
-	color: #800080;
 	font-weight: bold;
-}
-.style5 {
-	font-family: Arial, Helvetica, sans-serif;
-	color: rgb(128, 0, 0);
 }
 </style>
 </head>
@@ -36,7 +29,7 @@
 ...&nbsp; </span>
 <h1 style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;" class="style1">
 Polgar Political</h1>
-<h2 style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;" class="style5">
+<h2 style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;" class="style3">
 Üdvözöllek idetévedt internetező!<br />
  Ez egy politikai blog ahol egyszerű <br />
 állampolgárok véleménye jelenik meg.<br />
